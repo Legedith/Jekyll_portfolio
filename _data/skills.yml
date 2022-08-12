@@ -3,13 +3,6 @@
 - name: JavaScript
 - name: Bootstrap
 - name: Git
-- name: Gulp
-- name: jQuery
-- name: Laravel
+- name: SnapAR
 - name: MySQL
 - name: PHP
-- name: Sass
-- name: Vue.js
-- name: WordPress
-- name: React
-- name: Node.js

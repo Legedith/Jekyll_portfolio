@@ -1,4 +1,4 @@
-# jayveepvalenzuela.github.io
+# legedith.github.io
 
 My portfolio website built with Jekyll.
 
@@ -10,4 +10,4 @@ My portfolio website built with Jekyll.
 Please see [Jekyll docs](https://jekyllrb.com/docs/) for detailed instructions.
 
 ## License
-This project is licensed under the [MIT License](https://github.com/jayveepvalenzuela/jayveepvalenzuela.github.io/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/legedith/legedith.github.io/blob/main/LICENSE).

@@ -1,26 +1,26 @@
 [
     {
-        "name": "covid19-philippines ",
-        "description": "A simple coronavirus tracker app for Philippines.",
+        "name": "Sirius WhatsApp Bot",
+        "description": "A Harry Potter themed WhatsApp bot.",
         "thumbnail": "project-covid-19-tracker-philippines.webp",
-        "url": "https://covid19-philippines.netlify.app/",
-        "repo": "https://github.com/jayveepvalenzuela/covid19-philippines",
-        "tech": ["Pug", "Sass", "JavaScript", "Gulp"]
+        "url": "https://github.com/Legedith/Sirius_WhatsApp_Bot",
+        "repo": "https://github.com/Legedith/Sirius_WhatsApp_Bot",
+        "tech": ["Selenium", "Python", "Beautiful soup"],
     },
     {
-        "name": "jayveepvalenzuela.github.io",
-        "description": "My portfolio website built with Jekyll. Animations are handled with GSAP and CSS.",
+        "name": "Saviour",
+        "description": "Generate pseudocode for your code, stylize your code and practice questions offline.",
         "thumbnail": "project-jayveepvalenzuela-github-io.webp",
-        "url": "https://jayveepvalenzuela.github.io/",
-        "repo": "https://github.com/jayveepvalenzuela/jayveepvalenzuela.github.io",
-        "tech": ["Jekyll", "HTML", "Sass", "JavaScript", "GSAP"]
+        "url": "https://github.com/Legedith/saviour",
+        "repo": "https://github.com/Legedith/saviour",
+        "tech": ["pip", "PEP8", "Custom Linter", "Python"],
     },
     {
-        "name": "pokedex",
-        "description": "Pokédex app built with React.",
+        "name": "Slowpoke",
+        "description": "Slowdown your internet (deliberately).",
         "thumbnail": "project-pokedex.webp",
-        "url": "https://pokedex-yellow.vercel.app/",
-        "repo": "https://github.com/jayveepvalenzuela/pokedex",
-        "tech": ["React", "TailwindCSS", "PokéAPI"]
+        "url": "https://github.com/Legedith/Slowpoke",
+        "repo": "https://github.com/Legedith/Slowpoke",
+        "tech": ["Python", "Linux", "bash"],
     }
 ]
