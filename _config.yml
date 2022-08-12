@@ -22,8 +22,8 @@ title: Jatin Dehmiwal | Robotics Developer
 email: jatindehmiwal@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Jatin Dehmiwal is a robotics developer based in Indiawith 5+ years of experience focusing on Robotics integration and experimentation.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://legedith.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://legedith.github.io/Jekyll_portfolio" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  legedith
 author: Jatin Dehmiwal
 links:
