@@ -109,5 +109,5 @@ window.addEventListener('load', () => {
     });
 
     // start particles
-    particlesJS.load('about', '/assets/js/particles.json');
+    particlesJS.load('about', 'https://raw.githubusercontent.com/Legedith/Jekyll_portfolio/gh-pages/assets/js/particles.json');
 });
