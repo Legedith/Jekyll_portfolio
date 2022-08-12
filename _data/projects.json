@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Sirius WhatsApp Bot",
+        "description": "A Harry Potter themed WhatsApp bot.",
+        "thumbnail": "project-covid-19-tracker-philippines.webp",
+        "url": "https://github.com/Legedith/Sirius_WhatsApp_Bot",
+        "repo": "https://github.com/Legedith/Sirius_WhatsApp_Bot",
+        "tech": ["Selenium", "Python", "Beautiful soup"],
+    },
+    {
+        "name": "Saviour",
+        "description": "Generate pseudocode for your code, stylize your code and practice questions offline.",
+        "thumbnail": "project-jayveepvalenzuela-github-io.webp",
+        "url": "https://github.com/Legedith/saviour",
+        "repo": "https://github.com/Legedith/saviour",
+        "tech": ["pip", "PEP8", "Custom Linter", "Python"],
+    },
+    {
+        "name": "Slowpoke",
+        "description": "Slowdown your internet (deliberately).",
+        "thumbnail": "project-pokedex.webp",
+        "url": "https://github.com/Legedith/Slowpoke",
+        "repo": "https://github.com/Legedith/Slowpoke",
+        "tech": ["Python", "Linux", "bash"],
+    }
+]
